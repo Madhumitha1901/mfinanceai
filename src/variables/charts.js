@@ -1,5 +1,5 @@
 // Daily Traffic Dashboards Default
-
+//had it by madhumitha
 export const barChartDataDailyTraffic = [
   {
     name: "Daily Traffic",
